@@ -17,3 +17,4 @@
 - Plot bar plot of captain versus total wins
 - Plot pie chart for wins versus team
 
+Note : Some graphs plotted using Plotly are not visible on github but they can be seen by open it in Google Colab. For opening in Colab just click on ```open in colab``` button. Please do not ask for permission to edit the colab file just download it and edit it according to your requirement.
